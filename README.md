@@ -56,5 +56,5 @@ The `Faker` library can generate a wide variety of random data types, making it 
 - **Gender**: `fake.prefix()` (gender-neutral prefixes like Dr.), `fake.suffix()`
 - **License Plates**: `fake.license_plate()`
 
-## 10. Localized Data
+## 10. Localized Data,
 - **Localized Faker Providers**: Faker can generate data specific to different countries/locales (e.g., en_US, fr_FR, ja_JP), which changes formats for addresses, phone numbers, names, etc.
